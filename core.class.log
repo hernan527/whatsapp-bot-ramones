@@ -1,0 +1,101 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160156115@s.whatsapp.net',
+    fromMe: false,
+    id: '65951C1BB76A3669CD4E6DA199B0C983',
+    participant: undefined
+  },
+  messageTimestamp: 1692651106,
+  pushName: 'Juan Martin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491160156115'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '15139958380@s.whatsapp.net',
+    fromMe: false,
+    id: '537F04A034CC57A149',
+    participant: undefined
+  },
+  messageTimestamp: 1692651350,
+  pushName: '15139958380',
+  broadcast: false,
+  message: Message {
+    conversation: 'Note: The free trial of God in a Box allows 3 messages per month. Upgrade at https://portal.godinabox.co to access unlimited messages with our paid plan.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'God In A Box',
+  body: 'Note: The free trial of God in a Box allows 3 messages per month. Upgrade at https://portal.godinabox.co to access unlimited messages with our paid plan.',
+  from: '15139958380'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160156115@s.whatsapp.net',
+    fromMe: false,
+    id: 'BF9A5B297D0C34AAC05C614CF6E6EBB5',
+    participant: undefined
+  },
+  messageTimestamp: 1692669868,
+  pushName: 'Juan Martin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que grande algunos extraños🤣🤣🤣',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que grande algunos extraños🤣🤣🤣',
+  from: '5491160156115'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160156115@s.whatsapp.net',
+    fromMe: false,
+    id: '3DCE69C63B34A6FEFA07D7C82C7B8B36',
+    participant: undefined
+  },
+  messageTimestamp: 1692669890,
+  pushName: 'Juan Martin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Che gracias por los consejos y la clase maguatral',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Che gracias por los consejos y la clase maguatral',
+  from: '5491160156115'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160156115@s.whatsapp.net',
+    fromMe: false,
+    id: 'EAC59ED9D5A052051557CF959C2EA328',
+    participant: undefined
+  },
+  messageTimestamp: 1692669896,
+  pushName: 'Juan Martin',
+  broadcast: false,
+  message: Message {
+    conversation: 'Magistral',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Magistral',
+  from: '5491160156115'
+}
